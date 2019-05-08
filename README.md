@@ -42,20 +42,3 @@ fire-shop-lite由上海染火网络科技有限公司开发，前端代码完全
 # 文档教程
 [文档教程](https://www.kancloud.cn/thundersword/fire-shop-lite/936356)
 # 使用交流
-
-技术交流QQ群 878573318
-
-![](https://box.kancloud.cn/7c84f8cccee146b86a7b9edaa23d4796_540x740.png)
-# 赞助
-
-觉得小程序还可以的，动动小手，互惠互利
-
-![](https://box.kancloud.cn/121959f84f2bdf1ecfcabe531592462d_410x615.png)
-
-家里有矿的请随意
-
-![](https://box.kancloud.cn/4186935d18019b624559662b68845856_420x420.png)
-# 联系作者
-
-加好友请备注一下“fireshop”哦
-![](https://box.kancloud.cn/73e1d6a46e3ed410eccbae3e7ae0ecdd_410x546.jpg)
